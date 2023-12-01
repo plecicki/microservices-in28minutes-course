@@ -9,6 +9,16 @@ public class CurrencyExchange {
     private String to;
     private BigDecimal conversionMultiple;
 
+    public String getEnvironment() {
+        return environment;
+    }
+
+    public void setEnvironment(String environment) {
+        this.environment = environment;
+    }
+
+    private String environment;
+
     public CurrencyExchange() {
     }
 
