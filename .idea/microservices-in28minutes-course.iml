@@ -4,6 +4,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/git-localconfig-repo" />
+      <excludeFolder url="file://$MODULE_DIR$/currency-conversion-service-springcloud" />
+      <excludeFolder url="file://$MODULE_DIR$/currency-exchange-service-springcloud" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
